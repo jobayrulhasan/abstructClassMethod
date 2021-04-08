@@ -1,0 +1,7 @@
+D:\Practices\AbstructClassAndMethod\bin\Debug\AbstructClassAndMethod.exe.config
+D:\Practices\AbstructClassAndMethod\bin\Debug\AbstructClassAndMethod.exe
+D:\Practices\AbstructClassAndMethod\bin\Debug\AbstructClassAndMethod.pdb
+D:\Practices\AbstructClassAndMethod\obj\Debug\AbstructClassAndMethod.csprojAssemblyReference.cache
+D:\Practices\AbstructClassAndMethod\obj\Debug\AbstructClassAndMethod.csproj.CoreCompileInputs.cache
+D:\Practices\AbstructClassAndMethod\obj\Debug\AbstructClassAndMethod.exe
+D:\Practices\AbstructClassAndMethod\obj\Debug\AbstructClassAndMethod.pdb
